@@ -1,4 +1,4 @@
-package com.geoschmitt.applyingconcepts.model;
+package com.geoschmitt.applyingconcepts.model.Tax;
 
 import java.math.BigDecimal;
 

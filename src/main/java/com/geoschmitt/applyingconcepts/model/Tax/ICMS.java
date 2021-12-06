@@ -1,8 +1,8 @@
-package com.geoschmitt.applyingconcepts.model;
+package com.geoschmitt.applyingconcepts.model.Tax;
 
 import java.math.BigDecimal;
 
-public class ICMS implements Tax{
+public class ICMS implements Tax {
 
     @Override
     public BigDecimal calculate(BigDecimal price) {

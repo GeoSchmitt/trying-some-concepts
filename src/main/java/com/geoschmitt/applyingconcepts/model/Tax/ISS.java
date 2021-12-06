@@ -1,8 +1,8 @@
-package com.geoschmitt.applyingconcepts.model;
+package com.geoschmitt.applyingconcepts.model.Tax;
 
 import java.math.BigDecimal;
 
-public class ISS implements Tax{
+public class ISS implements Tax {
 
     @Override
     public BigDecimal calculate(BigDecimal price) {
